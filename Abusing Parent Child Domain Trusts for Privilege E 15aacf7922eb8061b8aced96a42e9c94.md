@@ -1,3 +1,4 @@
+# Abusing Parent-Child Domain Trusts using mimikatz
 # Abusing Parent Child Domain Trusts for Privilege Escalation from DA to EA
 
 ### SID History
