@@ -1,15 +1,5 @@
 # Abusing Parent Child Domain Trusts for Privilege Escalation from DA to EA
 
-Posted
-
-*Jun 27, 2023*
-
-By
-
-[*Aftab Shaikh*](https://twitter.com/unknown00759)
-
-*4 min* read
-
 ### SID History
 
 When someone is using a computer network, like in a company or organization, they have an account that gives them access to certain things, like files and programs. This account is identified by a unique number called a Security Identifier (SID). Now, imagine a situation where a person has been using their account in one network, but they need to move to a different network. When they move, a new account is created for them in the new network. This new account has a different SID because it’s in a different network. However, to make sure this person can still access the things they could before in the old network, there’s a feature called SID history. It’s like a record that keeps track of the old SID associated with the person’s original account. This way, even though they have a new account in the new network, they can still get to the things they need in the old network
